@@ -1,6 +1,6 @@
 const PERSONA = {
     Nombre: 'Pablo',
-    Edad: 25,
+    Edad: 20,
     hobbies: ['jugar', 'correr', 'programar'],
     direccion: {
       calle: 'Calle la maltesa 35',
