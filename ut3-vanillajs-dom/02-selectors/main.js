@@ -13,7 +13,7 @@ IMG.alt = "LA";
 // Añadimos el contenido de texto
 H1.textContent = 'This is a Heading';
 P1.textContent = 'This is a paragraph'; 
-P2.textContent = "This is a another paragraph"
+P2.textContent = "This is a another paragraph";
 
 // Vamos construyendo el DOM
 BODY.appendChild(IMG);
