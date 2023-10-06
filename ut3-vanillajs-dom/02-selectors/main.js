@@ -1,4 +1,4 @@
-const body = document.body; 
+const BODY = document.body; 
 
 // Creamos los elementos
 
@@ -16,7 +16,7 @@ P1.textContent = 'This is a paragraph';
 P2.textContent = "This is a another paragraph"
 
 // Vamos construyendo el DOM
-body.appendChild(IMG);
-body.appendChild(H1);
-body.appendChild(P1);
-body.appendChild(P2);
+BODY.appendChild(IMG);
+BODY.appendChild(H1);
+BODY.appendChild(P1);
+BODY.appendChild(P2);
